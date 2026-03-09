@@ -1,16 +1,16 @@
-# driver_app
+# Fleet & Driver Management - Mobile App
 
-A new Flutter project.
+This repository contains the mobile application for the Fleet and Driver Management system.
 
-## Getting Started
+## Features
+- **OTP Authentication**: Secure login and signup with Email OTP.
+- **Trip Management**: Drivers can view, start, and complete assigned trips.
+- **Live Tracking**: Real-time GPS tracking for active trips.
+- **Document Upload**: Drivers can upload KYC documents (License, PAN, Aadhaar, RC).
+- **Advance Requests**: Request fuel/expense advances.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Development
+Runs on Flutter.
+```bash
+flutter run
+```
